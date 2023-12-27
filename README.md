@@ -4,7 +4,7 @@ This is a school project that allows users to send Morse Code using Arduino Uno 
 
 ### Features
 1. Allow users to type Morse Code from Arduino Uno and display the text in English.
-2. Allow users to send Morse Code to the internet once Internet is established.
+2. Allow users to send Morse Code to the website once Internet connection is established.
 3. Receive the text from Arduino Uno and display it on the website.
 
 ### Extra Information
